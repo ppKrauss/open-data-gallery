@@ -1,5 +1,5 @@
 # open-data-gallery
-*Open-data Gallery* is a proposal of standard for storage and interchange images its metada and/or captions. Open storage with [git](https://en.wikipedia.org/wiki/Git_(software)) and open interchange by [open formats](https://en.wikipedia.org/wiki/Open_data). 
+*Open-data Gallery* is a proposal of standard for storage and interchange images, its metada and captions. Open storage with [git](https://en.wikipedia.org/wiki/Git_(software)) and open interchange by [open formats](https://en.wikipedia.org/wiki/Open_data). 
 
 -----
 
