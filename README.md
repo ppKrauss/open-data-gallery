@@ -3,7 +3,7 @@
 
 -----
 
-This proposal use the Open Knowledge's [Data Packaged Core Datasets](https://github.com/datasets) conventions for store data in a [five-star open format](http://5stardata.info/en/).
+This proposal use the Open Knowledge's [Data Packaged Core Datasets](https://github.com/datasets) conventions (as well [W3C conventions for CSV](http://www.w3.org/TR/tabular-data-model/)) for store data in a [five-star open format](http://5stardata.info/en/).
 
 Digital photo galleries, product catalogs, etc. are usual in websites, personal and professional repositories... But online services (like Facebook, Instagram, Wix, Picasa, etc.) and even [CMS tools](https://en.wikipedia.org/wiki/Content_management_system), like Wordpress, etc. are't interchangeable.
 
