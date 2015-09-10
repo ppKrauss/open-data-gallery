@@ -16,7 +16,9 @@ Fix some conventions to get better datainterchange.
 ... see at samples: [`gallery` folder at *sample-1*](https://github.com/ppKrauss/open-data-gallery/tree/master/repo-sample1/gallery), [`gallery` folder at *sample-2*](https://github.com/ppKrauss/open-data-gallery/tree/master/repo-sample2/gallery)...
 
 ## The description.csv file
-... see at samples: [`description.csv`  at *sample-1*](https://github.com/ppKrauss/open-data-gallery/tree/master/repo-sample1/gallery/description.csv), [`description.csv`  at *sample-2*](https://github.com/ppKrauss/open-data-gallery/tree/master/repo-sample2/gallery/description.csv)...
+... see at samples: 
+* [`description.csv`  at *sample-1*](https://github.com/ppKrauss/open-data-gallery/tree/master/repo-sample1/gallery/description.csv)
+* [`description.csv`  at *sample-2*](https://github.com/ppKrauss/open-data-gallery/tree/master/repo-sample2/gallery/description.csv)... before edit, start as [scanned description](https://github.com/ppKrauss/open-data-gallery/blob/7ef7a025ea5dc0ffaad317a3f76d6dc4858a623e/repo-sample2/gallery/description.csv).
 
 
 ## The CSV generation from image folders 
