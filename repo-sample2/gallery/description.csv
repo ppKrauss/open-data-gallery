@@ -1,13 +1,13 @@
 PASTA,IMAGEM,kb,usar,LEGENDA
 "/ (image root)",,,,
-"Angel and Frank",,,,
+"Angel and Frank",,,x,Cattail, utilitarian and decorative artifacts
 ,p001-i1-box.jpg,57,,
-,p001-i2-box.jpg,71,,
-,p002-detail.png,34,,
-,p002-sousplat.jpg,24,,
-"Natasha Lourence",,,,
-,p003-KeyHolder.jpg,49,,
+,p001-i2-box.jpg,71,x,Box with lid
+,p002-detail.png,34,x,Sousplat detail
+,p002-sousplat.jpg,24,x,Sousplat
+"Natasha Lourence",,,x,Craftworks in aged wood with bitumen
+,p003-KeyHolder.jpg,49,x,Key holder
 ,p004-i1-teaChest.jpg,29,,
-,p004-i2-teaOpenBox.jpg,81,,
-,p004-i3-teaTopView.jpg,20,,
+,p004-i2-teaOpenBox.jpg,81,x,Tea chest (open box)
+,p004-i3-teaTopView.jpg,20,x,Tea chest (top view)
 
